@@ -1,0 +1,22 @@
+{
+  "name": "momo-tech",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Site vitrine Momo Tech : maintenance et réparation informatique, scène 3D Three.js.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
